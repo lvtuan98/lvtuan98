@@ -9,8 +9,8 @@
 
 - **Skills:** AI (PyTorch), Computer Vision (OpenCV). **Mostly use:** Python, C/C++.
 - **DayTime Job:** Reseach Engineer at **Samsung SDS R&D Center in Vietnam**.
-- **LinkedIn:** [Van Tuan LE](https://www.linkedin.com/in/tuanleoct31/).
-- **Twitter (X):** [Tuan LE](https://twitter.com/teriusleo).
+- **LinkedIn:** [linkedin.com/in/tuanleoct31](https://www.linkedin.com/in/tuanleoct31/).
+- **Twitter (X):** [twitter.com/teriusleo](https://twitter.com/teriusleo).
 
 **Open Source Projects:**
 
