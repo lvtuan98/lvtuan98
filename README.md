@@ -5,7 +5,6 @@
 ![](https://img.shields.io/badge/-Python-333?style=flat-square&logo=Python&logoColor=fff)
 ![](https://img.shields.io/badge/-C/C++-c14438?style=flat-square&logo=C&logoColor=fff)
 ![](https://img.shields.io/badge/-PyTorch-e34f26?style=flat-square&logo=PyTorch&logoColor=fff)
-![](https://img.shields.io/badge/-TensorFlow-e5cd0c?style=flat-square&logo=TensorFlow&logoColor=fff)
 <img src="https://komarev.com/ghpvc/?username=lvtuan98"> 
 
 - **Skills:** AI (PyTorch), Computer Vision (OpenCV). **Mostly use:** Python, C/C++.
