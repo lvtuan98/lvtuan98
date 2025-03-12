@@ -1,4 +1,4 @@
-## 👋 Hi!, I'm Van Tuan LE | Research Engineer.
+## 👋 Hi!, I'm Van Tuan LE | AI Research Engineer.
 
 > **Talk less, do more!**
 
@@ -8,7 +8,7 @@
 <img src="https://komarev.com/ghpvc/?username=lvtuan98"> 
 
 - **Skills:** AI (PyTorch), Computer Vision (OpenCV). **Mostly use:** Python, C/C++.
-- **DayTime Job:** Reseach Engineer at **Samsung SDS R&D Center in Vietnam**.
+- **DayTime Job:** AI Reseach Engineer at **NVIDIA in Viet Nam**.
 - **LinkedIn:** [linkedin.com/in/tuanleoct31](https://www.linkedin.com/in/tuanleoct31/).
 - **Twitter (X):** [twitter.com/teriusleo](https://twitter.com/teriusleo).
 
